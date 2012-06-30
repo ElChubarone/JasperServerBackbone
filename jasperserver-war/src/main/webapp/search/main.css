@@ -1,0 +1,32 @@
+input {
+    width: 200px;
+    margin-left: 20px;
+}
+
+li:hover {
+    color: #0061a2 !important;
+    cursor: pointer;
+}
+
+#reportsList {
+    overflow-y: auto;
+    width: 200px;
+    height: 200px;
+}
+
+#list {
+    float: left;
+    margin-right: 20px;
+    overflow-y: auto;
+}
+
+
+#viewer {
+    float: left;
+    width: 600px;
+    height: 240px;
+}
+
+p {
+    clear: both;
+}
