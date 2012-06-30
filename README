@@ -1,0 +1,11 @@
+Simple REST service and Backbone UI to search reports in JasperServer CE.
+
+This sample require JasperReports Server 4.7.0 Source Code.
+
+You can get it with:
+
+svn checkout --username anonsvn --password anonsvn http://jasperforge.org/svn/repos/jasperserver/tags/js-for-pro-4.7.0
+
+Copy files from this repo and build server using instruction from http://jasperforge.org/plugins/mwiki/index.php/Jasperserver/BuildingSourceCode.
+
+
